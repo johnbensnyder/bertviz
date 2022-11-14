@@ -1,0 +1,25 @@
+# bert
+# embeddings.word_embeddings_input_0
+# embeddings.token_type_embeddings_input_0
+# encoder.layer.*.attention.self.dropout_input_0
+#
+# event_attention
+
+# distilbert
+# embeddings.word_embeddings_input_0
+# transformer.layer.*.attention.dropout_input_0
+#
+# event_attention
+
+# gpt2
+# GPT2Model_input_0
+# h.11.attn.attn_dropout_input_0
+#
+# event_attention
+
+# roberta
+# embeddings.word_embeddings_input_0
+# embeddings.token_type_embeddings_input_0
+# encoder.layer.0.attention.self.dropout_input_0
+# 
+# event_attention
